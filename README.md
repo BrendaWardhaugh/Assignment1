@@ -88,7 +88,7 @@ I then used Excel to evaluate the following values for successful campaigns, and
   
   In the Word document previously created, I answered the following points:
    
-    Use your data to determine whether the mean or the median better summarizes the data.
+        Use your data to determine whether the mean or the median better summarizes the data.
    
    The Median would better summarize this set of data. This is because there are outliers within both the successful and failed backers_ count outcomes.                  Therefore, the Mean is affected by the outliers and creates a bias to the outliers. To help better show this I have created boxplots for both the                      successful and failed outcomes by backers_count which demonstrates that the medians are not in the centre of the interquartile ranges and the means are                also pulled up from the median due to the outliers in the data set. 
             
