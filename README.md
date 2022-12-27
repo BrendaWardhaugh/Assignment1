@@ -7,9 +7,9 @@ Please see the attached Word document and Excel document for additional informat
 ![Outcome colour filter](https://user-images.githubusercontent.com/120147552/209694366-6cfbe216-e299-4721-a653-2d7a403068df.png)
 
 For filling each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live, I used the following colour allocation:
-    Successful = Green
-    Failed = Red
-    Canceled = Yellow
+    Successful = Green,
+    Failed = Red,
+    Canceled = Yellow,
     Live = Blue
     
   ![Percent Funded](https://user-images.githubusercontent.com/120147552/209695331-c3d00d1a-06f6-428d-a501-0868806ca7ed.png)
