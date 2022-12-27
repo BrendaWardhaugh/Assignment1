@@ -94,7 +94,7 @@ I then used Excel to evaluate the following values for successful campaigns, and
             
 ![boxplots](https://user-images.githubusercontent.com/120147552/209701442-52564ed0-82a9-4d4e-a13b-8f95579da661.png)
                   
-   Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+    Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
   
  There is more variability in the successful campaigns. I believe that this makes sense because the standard deviation is larger for the successful                     outcomes than that the failed outcomes; this means that the data points in the successful outcomes are spread out more (further from the mean) than                     within the failed outcomes. 
 
