@@ -49,13 +49,15 @@ I created two new columns Date Created Conversion and Date Ended Conversion and 
       •	More Campaigns are successful in July than any other month of the year.
       
   Q2: What are some limitations of this dataset?
+  
   A2: •	Not all categories are equally represented. For example: Journalism represents 4/1000 entries, where as Theater represents 344/1000 entries.
       •	The data is not all using the same currency of money.
       •	The countries are not represented equally with most of the data coming from the US.
       •	The years are not equally represented in the data set. For example: 2020 has 2 data points whereas the other years have between 81 and 107 data points.
       
  Q3: What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
- A3: •	We could create tables/graphs that show the number of backers and the average donation for each category/sub-category. This would provide an added value of              know how many people are offering support and how much on average each person is donating to each of the crowdfunding campaigns. This would help us to see              whether a small number of people are donating a lot of money or if many people are donating a smaller amount to the campaigns.
+
+A3: •	We could create tables/graphs that show the number of backers and the average donation for each category/sub-category. This would provide an added value of              know how many people are offering support and how much on average each person is donating to each of the crowdfunding campaigns. This would help us to see              whether a small number of people are donating a lot of money or if many people are donating a smaller amount to the campaigns.
      •	Another possible table/graph we could create would show the backers count by country. This would help to show which country has more people contributing to             crowdfunding campaigns.
      •	We could also create a table/graph to show pledged/goal money based on category or sub-category. This would help to demonstrate which category or sub-                 category is getting pledged the most money regardless of outcome. For example: the ID 87 – Music category has a failed outcome but had 123,040 pledged                 whereas a lot of successful outcomes were for less pledged money. Perhaps the goal of each category plays a factor in the success rate.
 
