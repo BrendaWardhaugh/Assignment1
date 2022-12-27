@@ -1,5 +1,5 @@
 # Assignment1
-Module 1: Assignment 1
+Module 1: Assignment 1 Excel Challenge
 Please see the attached Word document and Excel document for additional information.
 
 ## Part 1
