@@ -42,6 +42,7 @@ I created two new columns Date Created Conversion and Date Ended Conversion and 
  I created a new sheet "Outcomes Over Time" with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years. I then created a pivot-chart line graph that visualizes this new table.
  
  I created a report in Microsoft Word, and answer the following questions:
+  
   Q1:Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?  
   A1: •	The Theater is the most supported crowdfunding campaign with plays being the most supported sub-category.
       •	Most campaigns are either successful or failed and only canceled less than 10% of the time.
@@ -54,9 +55,9 @@ I created two new columns Date Created Conversion and Date Ended Conversion and 
       •	The years are not equally represented in the data set. For example: 2020 has 2 data points whereas the other years have between 81 and 107 data points.
       
  Q3: What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
- A3: •	We could create tables/graphs that show the number of backers and the average donation for each category/sub-category. This would provide an added value of         know how many people are offering support and how much on average each person is donating to each of the crowdfunding campaigns. This would help us to see           whether a small number of people are donating a lot of money or if many people are donating a smaller amount to the campaigns.
-     •	Another possible table/graph we could create would show the backers count by country. This would help to show which country has more people contributing to         crowdfunding campaigns.
-     •	We could also create a table/graph to show pledged/goal money based on category or sub-category. This would help to demonstrate which category or sub-               category is getting pledged the most money regardless of outcome. For example: the ID 87 – Music category has a failed outcome but had 123,040 pledged               whereas a lot of successful outcomes were for less pledged money. Perhaps the goal of each category plays a factor in the success rate.
+ A3: •	We could create tables/graphs that show the number of backers and the average donation for each category/sub-category. This would provide an added value of              know how many people are offering support and how much on average each person is donating to each of the crowdfunding campaigns. This would help us to see              whether a small number of people are donating a lot of money or if many people are donating a smaller amount to the campaigns.
+     •	Another possible table/graph we could create would show the backers count by country. This would help to show which country has more people contributing to             crowdfunding campaigns.
+     •	We could also create a table/graph to show pledged/goal money based on category or sub-category. This would help to demonstrate which category or sub-                 category is getting pledged the most money regardless of outcome. For example: the ID 87 – Music category has a failed outcome but had 123,040 pledged                 whereas a lot of successful outcomes were for less pledged money. Perhaps the goal of each category plays a factor in the success rate.
 
 ## Crowfunding Goal Analysis
 
@@ -84,7 +85,8 @@ I then used Excel to evaluate the following values for successful campaigns, and
   The standard deviation of the number of backers
   
   In the Word document previously created, I answered the following points:
-    Use your data to determine whether the mean or the median better summarizes the data.
+   
+   Use your data to determine whether the mean or the median better summarizes the data.
             The Median would better summarize this set of data. This is because there are outliers within both the successful and failed backers_ count outcomes.               Therefore, the Mean is affected by the outliers and creates a bias to the outliers. To help better show this I have created boxplots for both the                   successful and failed outcomes by backers_count which demonstrates that the medians are not in the centre of the interquartile ranges and the means are             also pulled up from the median due to the outliers in the data set. 
             
 ![boxplots](https://user-images.githubusercontent.com/120147552/209701442-52564ed0-82a9-4d4e-a13b-8f95579da661.png)
